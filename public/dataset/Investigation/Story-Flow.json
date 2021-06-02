@@ -1,0 +1,85 @@
+{
+  "moruroa-files": {
+    "title": "Nuclear Reconstruction",
+    "dirPath": "/dataset/Investigation/Chapter1 - Nuclear Reconstruction/",
+    "intro": "[Nuclear Reconstruction Intro].md",
+    "story": [
+      {
+        "mode": "full-page",
+        "src": "[ALD-1 Introduction].md"
+      },
+      {
+        "mode": "video-loop-text",
+        "src": "[ALD-5 Aldebaran reconstruction - alt].json"
+      },
+      {
+        "mode": "map-and-story",
+        "src": "[ALD-2 Danger Zone].json"
+      },
+      {
+        "mode": "full-page",
+        "src": "[ALD-3 2 Gambier Islands population].md"
+      },
+      {
+        "mode": "map-and-story",
+        "src": "[ALD-6 Weather].json"
+      },
+      {
+        "mode": "full-page",
+        "src": "[ALD-8 Dose Reconstruction].md"
+      },
+      {
+        "mode": "map-and-story",
+        "src": "[ALD-4 Largest fallouts on Gambier Islands].json"
+      },
+      {
+        "mode": "full-page",
+        "src": "[ENC-1 Introduction].md"
+      },
+      {
+        "mode": "map-and-story",
+        "src": "[ENC-2 Fallout in Tureia].json"
+      },
+      {
+        "mode": "image-scroll",
+        "src": "[ENC-6 List of children PART 2].json"
+      },
+      {
+        "mode": "full-page",
+        "src": "[CEN-1 Introduction].md"
+      },
+      {
+        "mode": "map-and-story",
+        "src": "[CEN-2 Predictions].json"
+      },
+      {
+        "mode": "video-loop-text",
+        "src": "[CEN-3 Fallout - alt].json"
+      },
+      {
+        "mode": "full-page",
+        "src": "[CEN-4 CEA 2006 Dose].md"
+      }
+    ]
+  },
+  "battle-for-compensation": {
+    "title": "Battle for Compensation",
+    "dirPath": "/dataset/Investigation/Chapter2 - Battle for Compensation/",
+    "story": [
+      {
+        "mode": "full-page",
+        "src": "[Chapter 2].md"
+      }
+    ]
+  },
+  "findings-of-investigation": {
+    "title": "Findings of Investigation",
+    "dirPath": "/dataset/Investigation/Chapter3 - Findings of Investigation/",
+    "story": [
+      {
+        "mode": "full-page",
+        "src": "[Chapter 3].md"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "imgDir": "https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ENC/ENC-6-FR",
+  "story": [
+    {
+      "id": "p1",
+      "text": "Le 10 août, soit deux mois après l’accident, le SMCB remet son rapport à la direction des essais. Dès l’introduction, l’étude souligne « la présence de produit de fission frais » dans les aliments mais aussi dans « l’eau de boisson ». La principale « source de contamination » des habitants, selon le rapport."
+    },
+    {
+      "id": "p2",
+      "text": "Une liste est annexée au rapport. Elle recense les noms, les dates de naissance et les citernes utilisées pour la consommation d’eau des habitants les plus à risque de Tureia : les nourrissons et les enfants de moins de sept ans."
+    },
+    {
+      "id": "p3",
+      "text": "A 62 ans, Maoake Brander est l’une des mémoires de Tureia, où il habite encore aujourd’hui. Il est aussi le frère et l’oncle de quatre des enfants figurant sur la liste. A l’époque des essais, il était âgé de 12 ans, donc moins vulnérable qu’eux, si l’on en croit les scientifiques français. \n\n « Je n’avais jamais vu ce document et encore moins cette liste de noms », témoigne Maoake Brander. Sa famille, assure-t-il, n’a pas été prévenue du risque encouru par les plus jeunes. Ni par personne, d’ailleurs. Car il semble bien que l’âge ne fasse pas beaucoup de différence : la mère, une sœur, et le père de Maoake sont morts d’un cancer, respectivement une leucémie, un cancer du sein et du poumon. Les deux derniers ont été reconnus par l’Etat comme une conséquence des essais. Maoake lui-même est atteint d’un cancer de la thyroïde, diagnostiqué en 2016. \n\n Tous buvaient l’eau contaminée des citernes."
+    },
+    {
+      "id": "p4",
+      "text": ""
+    },
+    {
+      "id": "p5",
+      "text": ""
+    },
+    {
+      "id": "p6",
+      "text": ""
+    },
+    {
+      "id": "p7",
+      "text": ""
+    },
+    {
+      "id": "p8",
+      "text": ""
+    },
+    {
+      "id": "p9",
+      "text": ""
+    },
+    {
+      "id": "p10",
+      "text": ""
+    },
+    {
+      "id": "p11",
+      "text": ""
+    },
+    {
+      "id": "p12",
+      "text": ""
+    },
+    {
+      "id": "p13",
+      "text": "Un plan du village de Fakamura est joint au rapport. En le recoupant avec des images satellites récentes, nous avons modélisé le village, son église, ses maisons et… ses citernes. Les citernes n°3 et 4 correspondent à celles utilisées par la famille Brander pour leur consommation d’eau quotidienne."
+    },
+    {
+      "id": "p14",
+      "text": "Au lendemain du tir, le 13 juin, ces deux citernes enregistrent les taux de radioactivité les plus élevés du village, d’après les échantillons prélevés ce jour-là par les équipes de contrôle."
+    },
+    {
+      "id": "p15",
+      "text": ""
+    },
+    {
+      "id": "p16",
+      "text": ""
+    },
+    {
+      "id": "p17",
+      "text": "Chaque famille dispose de sa propre citerne. Plus une autre, installée à côté de l’église, où tout le monde peut venir se servir."
+    },
+    {
+      "id": "p18",
+      "text": "Voici les deux citernes utilisées par la famille Brander. En conservant la valeur de la radioactivité la plus élevée, nous avons calculé la dose reçue à la thyroïde, et dans tout le corps, par les enfants."
+    },
+    {
+      "id": "p19",
+      "text": ""
+    },
+    {
+      "id": "p20",
+      "text": ""
+    },
+    {
+      "id": "p21",
+      "text": ""
+    },
+    {
+      "id": "p22",
+      "text": "Nous nous sommes concentrés sur l’exposition au rayonnement de l'iode 131, le plus contaminant pour la thyroïde chez les plus jeunes. Ce schéma indique comment l'iode 131 les aurait contaminés."
+    },
+    {
+      "id": "p23",
+      "text": "En plus de l’eau, les enfants de Tureia ont été exposés à de multiples facteurs de contamination, tels que la luminosité des nuages et du sol, l'inhalation de l’air et l’ingestion de denrées alimentaires. Nous les avons intégrés à nos calculs."
+    },
+    {
+      "id": "p24",
+      "text": "D’après nos simulations, la dose d’iode 131 reçue à la thyroïde par un enfant de moins de 2 ans serait de 59 millisieverts (mSv). Soit plus du double des estimations officielles."
+    },
+    {
+      "id": "p25",
+      "text": "Qu’en est-il de la dose reçue sur tout le corps ? Selon nos estimations, elle atteint 11,5 mSv. Un résultat, là encore, nettement supérieur à celui établi par le Commissariat à l’énergie atomique (CEA) il y a quinze ans."
+    },
+    {
+      "id": "p26",
+      "text": "En 2018, lors de la visite d’élus polynésiens à Tureia, Maoake Brander les a accueillis avec un panneau accroché à l’abri antiatomique qui trône dans sa propriété : « De Gaulle est un criminel de guerre. » La saillie a fait enrager les visiteurs du jour. Le sexagénaire, lui, n’en démord pas. « Qui va payer pour les soins de nos enfants ? » \n\n Des années après l’accident nucléaire de l’été 1971, au moins quatre enfants inscrits sur la liste du SMCB ont été atteints d’un cancer de la thyroïde. Dont l’un des petits frères de Maoake Brander, tout juste âgé de 7 ans à l’époque de la contamination de Tureia."
+    }
+  ]
+}

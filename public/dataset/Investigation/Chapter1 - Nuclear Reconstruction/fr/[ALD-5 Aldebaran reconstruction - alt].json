@@ -1,0 +1,39 @@
+{
+  "videoSrc": "https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/VIDEO/ALD-Reconstruction-v05-720-fr.mp4",
+  "poster": "https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/VIDEO+FRAMES/ALD-5-image.png",
+  "totalPoint": 95,
+  "section": [
+    {
+      "point": 5,
+      "content": "Aldébaran, le premier tir nucléaire de la France en Polynésie a explosé le 2 juillet 1966 au-dessus de Moruroa"
+    },
+    {
+      "point": 18,
+      "content": "La taille et la forme du champignon provoqué par l’explosion de la bombe Aldébaran ont été reconstituées à partir de vidéos et d' une photographie de l'explosion. La vidéo a probablement été tournée à bord du navire de la marine française Le Forbin et les photographies prises de l'un des deux avions Lockheed P-2 Neptune qui ont été envoyés pour documenter le test."
+    },
+    {
+      "point": 22,
+      "content": "Nous avons simulé les retombées radioactives du test d'Aldébaran en modélisant et en suivant les particules radioactives du nuage ​​généré par l'explosion. La simulation a été réalisée en utilisant des outils de modélisation atmosphérique ainsi que des données issues des documents déclassifiés, d’ informations en sources ouvertes et des données météorologiques de l’époque"
+    },
+    {
+      "point": 29,
+      "content": "La bombe a explosé le 2 juillet 1966 à 5h34 W (15h34 TU). Le champignon nucléaire s'est élevé verticalement au-dessus du point de l’explosion. La partie inférieure du pied est restée visible jusqu'à H + 15min. Près de 6 minutes après l'explosion, le sommet du nuage s'est stabilisé à une altitude de 9 000 m. Le nuage a ensuite été poussé par des vents orientés Ouest / Nord-Ouest de 20 m / s. (Le vent moyen a été mesuré entre 5000 et 9000 m d'altitude.)Le champignon contient la majeure partie de la radioactivité après l'explosion. Les particules radioactives peuvent voyager sur de grandes distances en fonction de leur taille et de leur densité. La tige et la jupe du nuage ​​produisent des retombées plus proches du point de l'explosion. Pour reconstruire les retombées, nous avons généré 100 différents types de tailles de particules radioactives pour chaque section du nuage."
+    },
+    {
+      "point": 32,
+      "content": "3 millions de particules ont été libérées dans l'air depuis le centre du nuage champignon (seulement 100.000 sont simulées ici). Avec le temps, ces particules retombent à la surface. A partir du nombre de particules présentes dans l'air ou en surface, notre modèle calcule la concentration radioactive dans l'air et la radioactivité déposée sur le sol à différents moments. À partir de ces données, il est possible d'estimer ensuite le niveau d’exposition qu'une personne recevrait si elle était présente dans une zone donnée."
+    },
+    {
+      "point": 35,
+      "content": "Nous avons reconstitué le niveau des retombées de surface, à la fois sur l'océan et sur terre, en fonction de l'endroit où les particules sont tombées. La zone grise est la concentration dans l’air près du niveau du sol qui est le lieu des retombées immédiates. Les contours rouges sont les zones correspondantes aux différents niveaux d’exposition résultant des retombées."
+    },
+    {
+      "point": 55,
+      "content": "Les retombées du tir Aldebaran ont atteint les îles Gambier, 10 heures et 45 minutes après l'essai. Le sol était contaminé par des produits de fission nucléaire. L'équipe locale d'enquête radiologique a mesuré un niveau d’exposition de 0,26 rem / h (normalisé à H + 1 heure après l'explosion), ce qui est cohérent avec nos résultats. Des pluies ont arrosé l'île peu de temps après, entraînant la contamination des sources d'eau potable."
+    },
+    {
+      "point": 73,
+      "content": "Les officiels français présents sur l’île ont été évacués avant l’arrivée du nuage radioactif. Malgré un temps d’alerte suffisant, la population locale n’a pas été alertée des risques d’exposition aux rayonnements. Les militaires envoyés pour mesurer et évaluer la contamination des denrées alimentaires sur les îles ont estimé qu'il était nécessaire de dissimuler le niveau réel d'exposition de la population pour éviter de perdre la confiance des habitants locaux."
+    }
+  ]
+}

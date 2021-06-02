@@ -1,0 +1,1 @@
+Les retombées radioactives atteignent Mangareva onze heures après le tir. Un navire scientifique est alors envoyé sur la zone pour estimer l’ampleur de l’accident. Les résultats sont mauvais. Denrées alimentaires, eau, sol… tout est contaminé.

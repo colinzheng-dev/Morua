@@ -1,0 +1,109 @@
+{
+  "imgDir": "https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ENC/ENC-dose",
+  "story": [
+    {
+      "id": "p1",
+      "text": "On August 10, two months after the accident, the SMCB submitted its report to the testing department. From the introduction, the study underlines \"the presence of fresh fission product\" in food but also in \"drinking water\", pointed out by its authors as the main \"source of contamination\"."
+    },
+    {
+      "id": "p2",
+      "text": "The report's authors note that infants and children under the age of seven are at particularly high risk. At this age, the \"thyroid is a very radio-sensitive organ\", he explains. A list is appended to the document. It lists the name, date of birth and area of ​​residence of these children. All are under 7 years old and live in Fakamaru, the only village in Tureia, located at the northern tip of the island. Four are from the same family, the Brander."
+    },
+    {
+      "id": "p3",
+      "text": "At 62, Maoake Brander is one of the elders of Tureia, where he still lives today. He is also the brother and uncle of four of the children on the list. At the time of the tests, he was 12 years old, so less vulnerable than them, if French scientists are to be believed. In 2016, however, doctors diagnosed him with thyroid cancer. \"I had never seen this document,\" he testifies, seated at a restaurant in a hotel in Faa’a, a stone's throw from Tahiti international airport. His family, he says, have never been told about the risk to the younger ones, though age doesn't seem to make much of a difference. Maoake's mother, sister, and father died of cancer, leukemia, breast cancer, and lung cancer, respectively. The latter two have been recognized by the state as a consequence of the nuclear tests. All had drunk the contaminated water from the cisterns."
+    },
+    {
+      "id": "p4",
+      "text": ""
+    },
+    {
+      "id": "p5",
+      "text": ""
+    },
+    {
+      "id": "p6",
+      "text": ""
+    },
+    {
+      "id": "p7",
+      "text": ""
+    },
+    {
+      "id": "p8",
+      "text": ""
+    },
+    {
+      "id": "p9",
+      "text": ""
+    },
+    {
+      "id": "p10",
+      "text": ""
+    },
+    {
+      "id": "p11",
+      "text": ""
+    },
+    {
+      "id": "p12",
+      "text": ""
+    },
+    {
+      "id": "p13",
+      "text": "A map of the village of Fakamura is attached to the report. By cross-checking it with recent satellite images, we modeled the village, its church, its houses and… its cisterns. Tanks n ° 3 and 4 correspond to those used by the Brander family for their daily water consumption"
+    },
+    {
+      "id": "p14",
+      "text": "The day after the explosion, on June 13, these two tanks recorded the highest levels of radioactivity in the village, according to samples taken that day by the survey team."
+    },
+    {
+      "id": "p15",
+      "text": ""
+    },
+    {
+      "id": "p16",
+      "text": ""
+    },
+    {
+      "id": "p17",
+      "text": "This massive contamination is due to the radioactive rains which fell on the village a few hours after the explosion: falling on the roofs of the houses, the drops of water streamed into the cisterns dedicated to collect drinking water. There is almost one per family. Plus another, installed next to the church, where everyone can come and help themselves."
+    },
+    {
+      "id": "p18",
+      "text": "Here are Tanks 3 and 4 used by Maoake Brander and his family. By keeping the highest contamination value, we calculated the dose received to the thyroid and throughout the body by the children in the village."
+    },
+    {
+      "id": "p19",
+      "text": ""
+    },
+    {
+      "id": "p20",
+      "text": ""
+    },
+    {
+      "id": "p21",
+      "text": ""
+    },
+    {
+      "id": "p22",
+      "text": "We focused on radiation exposure to iodine-131, the most harmful to the thyroid. This diagram shows how iodine-131 would have contaminated them."
+    },
+    {
+      "id": "p23",
+      "text": "In addition to water, Tureia's children have been exposed to other sources of radiation, such as groundshine, cloudshine, inhaling air from the passing radioactive plume and ingesting contaminated foodstuffs. We have incorporated them into our calculations."
+    },
+    {
+      "id": "p24",
+      "text": "According to our re-evevaluation of the French government most recent report on the event, the dose received to the thyroid by a child under 2 years of age would be 59 mSv. This is more than double the 27 mSv currently used by the CEA, the official reference."
+    },
+    {
+      "id": "p25",
+      "text": "What about the dose received for the whole body? According to our estimates, it reached 11.5 mSv. A result, again, underestimated by the French authorities."
+    },
+    {
+      "id": "p26",
+      "text": "In 2018, during the visit of Polynesian elected officials to Tureia, the imposing Maoake Brander greeted them with a sign hanging from the anti-atomic shelter which sits in the middle of his property: \"De Gaulle is a war criminal. The protrusion enraged the representatives of the nation. The sixty-year-old does not budge.\" Who will pay for the care of our children? Years after the contamination from the summer of 1971, at least four children on the SMCB list developed thyroid cancer. Including one of the younger brothers of Maoake Brander, seven years old at the time of the Encélade test."
+    }
+  ]
+}

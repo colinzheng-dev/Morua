@@ -1,0 +1,65 @@
+{
+  "name": "interprt-casefp-master",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "classnames": "^2.2.6",
+    "gsap": "^3.6.0",
+    "json-loader": "^0.5.7",
+    "mapbox-gl": "^2.0.1",
+    "node-sass": "4.14.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-gsap": "^2.2.1",
+    "react-iframe": "^1.8.0",
+    "react-infinite-scroll-component": "^6.0.0",
+    "react-lazyload": "^3.2.0",
+    "react-loadable": "^5.5.0",
+    "react-map-gl": "^6.1.9",
+    "react-markdown": "^5.0.3",
+    "react-player": "^2.9.0",
+    "react-redux": "^7.2.2",
+    "react-responsive": "^8.2.0",
+    "react-responsive-modal": "^6.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.3.1",
+    "react-scripts": "4.0.1",
+    "react-scroll": "^1.8.1",
+    "redux": "^4.0.5",
+    "transform-loader": "^0.2.4",
+    "video-js": "^0.7.0",
+    "video-react": "^0.14.1",
+    "web-vitals": "^0.2.4",
+    "webpack-loader": "^0.0.1",
+    "webworkify-webpack": "1.0.6",
+    "worker-loader": "^3.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "set \"GENERATE_SOURCEMAP=false\" && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "yarn build && aws s3 cp --recursive ./build s3://ecocide-frontier && aws cloudfront create-invalidation --distribution-id E1X5S587E86X5X --paths \"/*\" "
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "style": "cklwanh1x2g7117lbzmvx1n2v",
+  "story": [
+    {
+      "id": 1,
+      "description": "According to the maps of the French Pacific Testing Centre, the CEP, which was in charge of coordinating the testing campaign, the island was at the heart of the exclusion zone established by the military, a prohibited area of several hundred kilometres around the atolls of Fangataufa and Muruoa. But unlike the inhabitants of neighbouring islands, those living on the Tureia atoll were not evacuated by the authorities before nuclear testing began.In 1971, according to France’s national institute of statistics and economic studies, INSEE, 68 people were living on the atoll. They were joined during the testing campaign by around 800 members of the military.",
+      "steps": [
+        [
+          {
+            "zoom": 7.43,
+            "center": [-21.16, -139.6]
+          }
+        ],
+        [
+          {
+            "layer": "-names",
+            "visible": true
+          },
+          {
+            "layer": "-dist-line",
+            "visible": true
+          },
+          {
+            "layer": "-dist-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "-names",
+            "visible": false
+          },
+          {
+            "layer": "-dist-line",
+            "visible": false
+          },
+          {
+            "layer": "-dist-text",
+            "visible": false
+          },
+          {
+            "zoom": 7.43,
+            "center": [-21.16, -139.6]
+          }
+        ],
+        [
+          {
+            "zoom": 10.82,
+            "center": [-21.864, -138.954],
+            "bearing": 33.19,
+            "pitch": 49.69
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-nuke1",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-nuke2",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke3",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke4",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke5",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke6",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-nuke5",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke6",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke4",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke3",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke2",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke1",
+            "visible": false
+          }
+        ],
+        [
+          {
+            "layer": "-names",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke-text",
+            "visible": false
+          },
+          {
+            "zoom": 10.82,
+            "center": [-21.864, -138.954],
+            "bearing": 33.19,
+            "pitch": 49.69
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "The atomic cloud arrived over the shores of Tureia in a little more than eight hours after the blast. During the night of June 12th-13th 1971, rain contaminated with radioactive particles began falling on the atoll and its population. This was the worst scenario of all, but while the military knew this very well, the inhabitants were not alerted to the danger. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/LEGEND/LEGEND-ENC-2-eng.jpg)",
+      "steps": [
+        [
+          {
+            "zoom": 6.1,
+            "center": [-20.032, -137.785],
+            "bearing": 43.2,
+            "pitch": 53.0
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-dose-area",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-dose-line",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-dose-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-fall-lines",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-fall-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "",
+      "steps": [
+        [
+          {
+            "layer": "-names",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-dose-area",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-dose-line",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-dose-text",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-fall-lines",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-fall-text",
+            "visible": false
+          },
+          {
+            "zoom": 6.1,
+            "center": [-20.032, -137.785],
+            "bearing": 43.2,
+            "pitch": 53.0
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "description": "That June, experts from the biological control joint service, the SMCB, were sent on a mission to evaluate the impact of the contamination on the inhabitants of Tureia. They precisely identified the number of rainwater cisterns and their location on the atoll, and measured the levels of fission products in the water, as revealed in this document, which is now declassified.![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ENC/ENC-2-map.jpg)_Map of rainwater catchment cisterns in village Fakamaru, Tureia, 1971. Declassiefied document: 05-1971 - 02-12-58._ ",
+      "steps": [
+        [
+          {
+            "zoom": 18.68,
+            "center": [-20.771, -138.565],
+            "bearing": 29.11,
+            "pitch": 61.34
+          }
+        ],
+        [
+          {
+            "layer": "ENC-4-cisterns1",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-road",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-cistent-NR",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-cistent-public",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-cistent-church",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ENC-4-activity",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-activity-text1",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-activity-text2",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-activity-text3",
+            "visible": true
+          }
+        ]
+      ]
+    }
+  ]
+}

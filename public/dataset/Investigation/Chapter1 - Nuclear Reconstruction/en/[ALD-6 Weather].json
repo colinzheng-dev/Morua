@@ -1,0 +1,157 @@
+{
+  "style": "cklt6mjla25sh17p6frvuypyy",
+  "story": [
+    {
+      "id": 1,
+      "description": "Officially, the French army and the Atomic Energy Commission (CEA) had planned everything to prevent the fallout from contaminating the archipelago. They relied on the weather and the direction of the wind.",
+      "steps": [
+        [
+          {
+            "zoom": 5.62,
+            "center": [-20.984, -137.606]
+          }
+        ],
+        [
+          {
+            "layer": "EN-ALD-6-name-Gambier",
+            "visible": true
+          },
+          {
+            "layer": "EN-ALD-6-name-Mururoa",
+            "visible": true
+          },
+          {
+            "layer": "ALD-6-best-weather",
+            "visible": true
+          },
+          {
+            "layer": "ALD-6-best-weather-arrow1",
+            "visible": true
+          },
+          {
+            "layer": "ALD-6-best-weather-text1",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "In fact, the French authorities knew perfectly well that the wind, on July 2, 1966, was blowing in a south-easterly direction, towards Gambier Islands.",
+      "steps": [
+        [
+          {
+            "layer": "ALD-6-buoys-weather-1",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ALD-6-buoys-weather-2",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ALD-6-best-weather",
+            "visible": false
+          },
+          {
+            "layer": "ALD-6-best-weather-arrow1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-6-best-weather-text1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-6-buoys-weather-1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-6-buoys-weather-2",
+            "visible": false
+          },
+          {
+            "zoom": 5.62,
+            "center": [-20.984, -137.606]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "This is a weather report established three hours before the test on July 2nd 1966. At that precise moment, at an altitude of 1,500 metres, the wind was blowing towards the south-east, in the direction of Mangareva and the islands surrounding it.",
+      "steps": [
+        [
+          {
+            "zoom": 3.74,
+            "center": [-19.0, -149.744]
+          }
+        ],
+        [
+          {
+            "layer": "ALD-6-traced-weather",
+            "visible": true
+          },
+          {
+            "layer": "ALD-6-trace-anno",
+            "visible": true
+          },
+          {
+            "layer": "ALD-6-traced-points",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ALD-6-real-arrows",
+            "visible": true
+          },
+          {
+            "layer": "real-text",
+            "visible": true
+          },
+          {
+            "layer": "ALD-6-real-weather-poly2",
+            "visible": true
+          },
+          {
+            "zoom": 3.74,
+            "center": [-19.0, -149.744]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "description": "",
+      "steps": [
+        [
+          {
+            "zoom": 5.1,
+            "center": [-22.304, -138.933]
+          }
+        ],
+        [
+          {
+            "layer": "ALD-6-traced-weather",
+            "visible": false
+          },
+          {
+            "layer": "ALD-6-trace-anno",
+            "visible": true
+          },
+          {
+            "layer": "ALD-6-traced-points",
+            "visible": false
+          },
+          {
+            "zoom": 5.1,
+            "center": [-22.304, -138.933]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+@import "../../assets/styles/abstract/mixins";
+
+.container {
+  max-width: 69rem;
+  margin: 0 auto;
+  padding: 5rem 2rem;
+
+  @include respond(xs) {
+    padding-top: 0;
+  }
+
+  img {
+    cursor: pointer;
+  }
+}

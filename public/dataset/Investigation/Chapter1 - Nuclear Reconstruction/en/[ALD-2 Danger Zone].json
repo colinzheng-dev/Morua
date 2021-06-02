@@ -1,0 +1,207 @@
+{
+  "style": "cklw95m2654tr17lj5hcpzfn3",
+  "story": [
+    {
+      "id": 1,
+      "description": "In early July 1966, the 450 inhabitants of the Gambier Islands did not yet know that they had been showered with radioactive particles from the first of what would be 41 atmospheric nuclear weapon tests conducted by France in the South Pacific.",
+      "steps": [
+        [
+          {
+            "zoom": 5.12,
+            "center": [-21.47, -137.629]
+          }
+        ],
+        [
+          {
+            "layer": "EN-names-Gambier",
+            "visible": true
+          },
+          {
+            "layer": "EN-names-Mururoa",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-distance line-",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-distance-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Their unawareness was all the more understandable given that the Gambier Islands, located 424 kilometres from the Moruroa test site, were outside the so-called radiological danger zone, as indicated on this map, which we found in a declassified French military document. According to it, the population of the archipelago was at no risk of being exposed to important doses of ionizing radiation. As a result, the French authorities had foreseen no preventive measures, no evacuation, and not even the installation of a nuclear fallout shelter before operation Aldéraban began.![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ALD/ALD-2-2.jpg)_Official radiological zoning from 1970. Declassified document: 03-1970 - 02-23-58._",
+      "steps": [
+        [
+          {
+            "layer": "ALD-2-distance line-",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-distance-text",
+            "visible": false
+          }
+        ],
+        [
+          {
+            "layer": "ALD-2-traced-image",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ALD-2-traced-image",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-dzone1",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-dzone1-area",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-dzone2",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-dzone2-area",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "",
+      "steps": [
+        [
+          {
+            "layer": "ALD-2-dzone1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-dzone1-area",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-dzone2",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-dzone2-area",
+            "visible": false
+          },
+          {
+            "zoom": 5.12,
+            "center": [-21.47, -137.629]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "description": "At the time of the test, most of the 450 inhabitants of the Gambier Islands lived on Mangareva, the largest island of the archipelago. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/Chapter1_Extra_Images/IMG_3760.jpg)_View on Cathedral of St. Michael Rikitea, Mangareva, Gambier Islands. Mathieu Asselin for Disclose._",
+      "steps": [
+        [
+          {
+            "zoom": 11.78,
+            "center": [-23.13, -134.99]
+          },
+          {
+            "layer": "sat-1",
+            "visible": true
+          },
+          {
+            "layer": "-islands",
+            "visible": true
+          },
+          {
+            "layer": "-mangareva",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "pop-names",
+            "visible": true
+          },
+          {
+            "layer": "pop-names Gatavake",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "pop-boxes",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "description": "According to the French National Institute of Statistics and Economic Studies, INSEE, there were 61 children aged between 4 and 8 who were then living on the archipelago. That figure is of particular importance because the harmful effects of radiation are most important for children, notably concerning the exposure to the thyroid gland which is the human organ that is the most sensitive to radioactive iodine present in the fallout.",
+      "steps": [
+        [
+          {
+            "layer": "-mangareva",
+            "visible": false
+          },
+          {
+            "layer": "pop-names",
+            "visible": false
+          },
+          {
+            "layer": "pop-names Gatavake",
+            "visible": false
+          }
+        ],
+        [
+          {
+            "layer": "pop-boxes",
+            "visible": false
+          },
+          {
+            "zoom": 11.78,
+            "center": [-23.13, -134.99],
+            "bearing": 0,
+            "pitch": 0
+          }
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "description": "",
+      "steps": [
+        [
+          {
+            "zoom": 16.91,
+            "center": [-23.115, -134.969],
+            "bearing": -31.89,
+            "pitch": 62.35
+          }
+        ],
+        [
+          {
+            "layer": "-blockhouse",
+            "visible": true
+          },
+          {
+            "layer": "gambier-text",
+            "visible": true
+          },
+          {
+            "layer": "Rikitea",
+            "visible": true
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+@import "../../assets/styles/abstract/mixins";
+
+.container {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-dark);
+  color: var(--color-white);
+  font-size: 3.3rem;
+  text-transform: uppercase;
+
+  @include respond(sm) {
+    font-size: 2.5rem;
+    height: 17rem;
+  }
+
+  @include respond(xs) {
+    font-size: 2rem;
+    height: 10rem;
+  }
+}
+
+.content {
+  max-width: 1920px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 7rem;
+  text-align: center;
+
+  @include respond(xs) {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 60px;
+
+    @include respond(sm) {
+      font-size: 45px;
+    }
+
+    @include respond(xs) {
+      font-size: 25px;
+    }
+  }
+}
+
+// modes
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}

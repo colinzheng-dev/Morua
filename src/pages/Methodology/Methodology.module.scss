@@ -1,0 +1,16 @@
+@import "../../assets/styles/abstract/mixins";
+
+.container {
+  max-width: 69rem;
+  margin: 0 auto;
+  padding: 10rem 2rem;
+
+  @include respond(xs) {
+    padding-top: 5rem;
+  }
+
+  a {
+    color: #000;
+    font-weight: bold;
+  }
+}

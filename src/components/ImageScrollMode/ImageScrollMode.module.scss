@@ -1,0 +1,44 @@
+@import "../../assets/styles/abstract/mixins";
+
+.container {
+  position: relative;
+  background-color: black;
+  margin: 0;
+
+  .text-panel {
+    position: absolute;
+    top: 0;
+    right: 45px;
+    color: white;
+    background-color: black;
+    max-width: var(--width-text-panel);
+    padding: var(--padding-text-panel);
+    z-index: 9;
+    font-size: 20px;
+  }
+
+  .panel-26 {
+    transform: translate(-50%, -50%);
+    left: 50%;
+  }
+
+  .image-box {
+    position: sticky;
+    top: 0;
+    width: auto;
+    height: 100%;
+    max-height: 100vh;
+    max-width: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+
+    @media screen and (max-width: 1400px) {
+      width: 100%;
+      max-height: unset;
+      height: auto;
+      max-width: unset;
+    }
+  }
+}

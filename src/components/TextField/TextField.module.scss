@@ -1,0 +1,25 @@
+.container {
+  padding: 0.7rem;
+  border: 1px solid var(--color-black);
+  background: var(--input-white);
+  margin-bottom: 1rem;
+  display: flex;
+}
+
+.input {
+  border: none;
+  font-size: 1.6rem;
+  font-family: inherit;
+  padding: 0.3rem;
+  width: 100%;
+  background: var(--input-white);
+  color: var(--input-black);
+
+  &::placeholder {
+    color: var(--color-black);
+  }
+
+  &:focus {
+    outline: none;
+  }
+}

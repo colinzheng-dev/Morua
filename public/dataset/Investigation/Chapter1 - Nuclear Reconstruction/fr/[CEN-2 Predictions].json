@@ -1,0 +1,116 @@
+{
+  "style": "ckjz4bcf1072g17jsn2ymvvun",
+  "story": [
+    {
+      "id": 1,
+      "description": "Vingt-quatre heures avant le test, tous les voyants météo sont au vert, selon les prévisions des militaires. D’après leur calcul, le nuage radioactif devrait s’orienter vers le nord, atteignant les atolls de Tureia et de Hao en vingt heures.![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/LEGEND/LEGEND-CEN-3-fr.jpg) ",
+      "steps": [
+        [
+          {
+            "zoom": 6.06,
+            "center": [-19.145, -141.035]
+          }
+        ],
+        [
+          {
+            "layer": "mururoa",
+            "visible": true
+          },
+          {
+            "layer": "FR-CEN-2-24H-anno",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-24H-dose",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-24H-dose-area",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-highlight",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-24H-dose-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "CEN-2-names",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "FR-CEN-2-24H-anno",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-dose",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-dose-area",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-dose-text",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-fallout",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-text",
+            "visible": false
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "De nouvelles simulations sont effectuées douze heures avant le tir : le nuage prendra bel et bien la direction de Tureia et Hao. Mais pour le commandement militaire, il n’y a pas lieu d’interrompre le déroulé des opérations. Les risques de contamination seraient « suffisamment faibles » pour ne pas oblitérer l’expérience, assure une note préparatoire au tir. ",
+      "steps": [
+        [
+          {
+            "layer": "FR-CEN-2-12H-anno",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-dose-area",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-dose",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-dose-text",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-fallout",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-text",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-HaoTureia-dose",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "A l’époque, Tureia est habité par une soixantaine de personnes et plusieurs centaines de soldats. Quant à l’atoll de Hao, il accueille une base militaire occupée en grande majorité par l’armée de l’air. Plusieurs milliers de gens pourraient donc se trouver directement dans l’axe du nuage. Qu’importe : l’amiral Claverie, le patron de la Direction centrale des essais nucléaires (Dircen), donne l’autorisation de tirer.",
+      "steps": [[{}]]
+    }
+  ]
+}

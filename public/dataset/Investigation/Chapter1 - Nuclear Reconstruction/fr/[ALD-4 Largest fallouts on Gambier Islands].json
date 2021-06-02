@@ -1,0 +1,270 @@
+{
+  "style": "cklt7oq6c26o118psyk9k9h1v",
+  "story": [
+    {
+      "id": 1,
+      "description": "Selon les archives militaires françaises, l’archipel des Gambier a été touché par les retombées atmosphériques de la totalité des essais, faisant de ce territoire le troisième endroit le plus touché par les expériences nucléaires en Polynésie. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/LEGEND/LEGEND-ALD-4-fr.jpg)",
+      "steps": [
+        [
+          {
+            "zoom": 6.96,
+            "center": [-23.216, -136.513],
+            "bearing": -12.8,
+            "pitch": 53
+          }
+        ],
+        [
+          {
+            "layer": "ALD-4-names",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4-dose-1",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4- fall-1",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4-fall-1text",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4-dose-1text",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4-highlight-Gambier",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Le cancer s’est propagé partout. De Rikitea à Taku, jusqu’au rivage de Taravai, les habitants en sont convaincus : ce fléau est lié aux retombées des essais nucléaires. \n\n Un soupçon que vient confirmer un rapport confidentiel du ministère de la santé polynésien de février 2020. Ce document mentionne pour la première fois la présence d’un « cluster de cancers thyroïdiens » aux Gambier qui « laisse peu de doute sur le rôle des rayonnements ionisants dans la survenue de cet excès de cancers ». ",
+      "steps": [
+        [
+          {
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Nous avons dressé une cartographie de la maladie à Mangareva. Bien que nous n’ayons pas été en mesure d’établir le lien direct entre les essais et le nombre de cancers sur place, le résultat est édifiant.  ",
+      "steps": [
+        [
+          {
+            "layer": "ALD-4-dose-1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-4- fall-1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-4-fall-1text",
+            "visible": false
+          },
+          {
+            "layer": "ALD-4-highlight-Gambier",
+            "visible": false
+          },
+          {
+            "layer": "ALD-4-dose-1text",
+            "visible": false
+          }
+        ],
+        [
+          {
+            "zoom": 6.96,
+            "center": [-23.216, -136.513],
+            "bearing": 0,
+            "pitch": 0
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Au cours des années, la maladie s’est immiscée au sein des familles de manière lente et sournoise.",
+      "steps": [
+        [
+          {
+            "zoom": 11.95,
+            "center": [-23.11, -134.988]
+          }
+        ],
+        [
+          {
+            "layer": "background-satellite",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Sylvie* et sa sœur aînée, nées en 1972 et 1966. \n\n « C’est quand nos aînés ont commencé à mourir que l’on s’est vraiment posé des questions », confie la cadette. \n\n Leur mère est morte de cette même maladie en 2009. Sylvie craint désormais pour sa fille. ",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-Sardine-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Sardine-line",
+            "visible": true
+          },
+          {
+            "layer": "FR-Sardine-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "description": "Yves Salmon a développé un carcinome, un cancer du sang radio-induit, en 2010.  Sa femme, a contracté un cancer du sein, elle a été reconnue comme une victime des essais nucléaires français. \n\n Même chose pour sa sœur. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/Chapter1_Extra_Images/IMG_3791.JPG)_Yves Salmon, dans sa maison, Taku, Mangareva, îles Gambier. Mathieu Asselin - Disclose._",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-YS-poly",
+            "visible": true
+          },
+          {
+            "layer": "FR-ALD-9-YS-text copy",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ALD-9-YS-wife-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-YS-line",
+            "visible": true
+          },
+          {
+            "layer": "FR-YS-wife-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "description": "Utinio, le voisin d’Yves Salmon, a contracté un cancer de la thyroïde, en 2001. L’homme, qui vit toujours à proximité du village de Taku, a passé toute son enfance aux Gambier. En 2010, l’Etat français a fini par lui reconnaître le statut de victime des essais nucléaires. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/Chapter1_Extra_Images/IMG_3798.JPG)_Utinio dans sa maison, Taku, Mangareva, îles Gambier. Mathieu Asselin - Disclose._",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-Utio-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Utio-line",
+            "visible": true
+          },
+          {
+            "layer": "FR-ALD-9-Utio-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "description": "Monique, 69 ans, est la cousine d’Utinio. Elle a survécu à un cancer de la thyroïde après deux ans d’hospitalisation et a été indemnisée par l’Etat en août 2011. Monique à six enfants dont quatre qui ont un cancer de la thyroïde. Ses deux filles ont demandé compensation auprès du Comité d’Indemnisation des victimes des essais nucléaires (Civen) sans avoir obtenu de réponses pour le moment.![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ALD/ALD-9-3.JPG)_Monique Paheo, habitante de Rikitea,Mangareva, archipel des Gambiers, a été reconnue comme victime des essais nucléaires par la France. Mathieu Asselin-Disclose.._",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-Monique-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Utio-line-2",
+            "visible": true
+          },
+          {
+            "layer": "FR-ALD-9-Monique-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "FR-ALD-9-CHILDREN",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Utio-poly copy",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "description": "Le père de Julie Lequesme, un ancien du village de Taku, est mort d’un cancer de la gorge, en 1981, après avoir travaillé à Mururoa. « Le médecin de l’île m’a dit qu’au vu des radios de mon père, c’était un gros fumeur, témoigne-t-elle. Or, mon père n’a jamais touché une cigarette. » Son mari, un ancien du CEA, est aussi décédé des suites d’un cancer, en 2010",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-Julie-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Julie-text",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Jullie-line",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Julie-fam-poly",
+            "visible": true
+          },
+          {
+            "layer": "FR-Julie-fam-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "description": "Dans la famille de Catherine Serda, une ancienne habitante du petit village de Taku, huit personnes ont été atteintes de cancers entre la fin des années 1970 et le début des années 1990. Leur point commun : elles ont toutes vécu à Mangareva à l’époque des essais.![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/LEGEND/LEGEND-ALD-9-fr.jpg)",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-CathPier-poly",
+            "visible": true
+          },
+          {
+            "layer": "FR-CathPier",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-CathPier-text-copy ",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-CathPier-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-CathPier-line",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "description": "",
+      "steps": [[{}]]
+    }
+  ]
+}

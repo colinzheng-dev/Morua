@@ -1,0 +1,36 @@
+# https://hub.docker.com/r/library/node/tags/
+image: node:latest
+# This folder is cached between builds
+# http://docs.gitlab.com/ce/ci/yaml/README.html#cache
+#AWS access keys stored as secret variables
+variables:
+  AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+  AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+#This declares the pipeline stages
+stages:
+  - build
+  - test
+  - deploy
+cache:
+  paths:
+    - node_modules/
+build:
+  stage: build
+  script:
+    - yarn install
+    - yarn build
+  artifacts:
+    paths:
+      - dist/
+test:
+  stage: test
+  script:
+    - echo "Running react test suite......"
+deploy:
+  stage: deploy
+  image: python:latest
+  script:
+    - pip install awscli
+    - aws s3 sync ./build s3://ecocide-frontier --delete
+    - aws cloudfront create-invalidation --distribution-id $PROD_CLOUDFRONT_DIST --paths "/*"
+  allow_failure: true

@@ -1,0 +1,71 @@
+@import "../../assets//styles/abstract/mixins";
+
+.story-header {
+  font-size: 4.5rem !important;
+  font-weight: bold !important;
+  margin: 7.5rem auto 0 auto !important;
+  line-height: 1.1;
+
+  @include respond(sm) {
+    font-size: 3.2rem !important;
+  }
+}
+
+.story-subheader {
+  margin: 0 auto 6rem auto !important;
+  font-size: 3rem !important;
+  font-weight: 500 !important;
+  max-width: 69rem;
+  line-height: 1.1;
+
+  @include respond(sm) {
+    margin: 0 auto 3rem auto !important;
+  }
+}
+
+.story-navigator {
+  display: flex;
+  align-items: center;
+  margin: 6rem auto 10rem auto;
+  justify-content: center;
+
+  &__label {
+    line-height: 1.1;
+    font-size: 2rem;
+    margin: 0 3rem;
+    font-weight: 500;
+  }
+
+  &__btn {
+    cursor: pointer;
+    background: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.8rem;
+    border-radius: 10rem;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      background-color: #f0f0f0;
+    }
+
+    &:focus {
+      outline: none;
+    }
+
+    &:first-of-type svg {
+      transform: translateX(-1px);
+    }
+
+    &:last-of-type svg {
+      transform: translateX(1px);
+    }
+  }
+
+  &__icon {
+    width: 2rem;
+    height: auto;
+  }
+}

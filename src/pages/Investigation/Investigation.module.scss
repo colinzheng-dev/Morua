@@ -1,0 +1,57 @@
+@import '../../assets//styles/abstract/mixins';
+
+.intro-video {
+  height: auto;
+  width: 100%;
+  object-fit: fill;
+}
+
+.investigation-header {
+  position: absolute;
+  z-index: 10;
+  left: 105px;
+  top: 105px;
+  color: var(--color-white);
+
+  @include respond(xs) {
+    left: 10px;
+    top: 60px;
+  }
+
+  &__title {
+    font-size: 80px;
+
+    @include respond(sm) {
+      font-size: 30px !important;
+      margin-bottom: 0.5rem !important;
+    }
+  }
+
+  &__sub-title {
+    font-size: 37px;
+
+    @include respond(sm) {
+      font-size: 20px !important;
+      max-width: 30rem;
+    }
+  }
+}
+
+.space-1 {
+  margin-top: 55px;
+}
+
+.space-2 {
+  margin-top: 110px;
+}
+
+.header-svg {
+  max-width: 58.8rem;
+}
+
+.video-caption {
+  font-size: 1.4rem;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}

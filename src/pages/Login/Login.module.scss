@@ -1,0 +1,28 @@
+@import '../../assets/styles/abstract/mixins';
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.form-container {
+  padding: 1rem;
+  width: 30rem;
+  margin-top: 10rem;
+
+  @include respond(xs) {
+    width: 80%;
+  }
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 2rem;
+  font-size: 4rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}

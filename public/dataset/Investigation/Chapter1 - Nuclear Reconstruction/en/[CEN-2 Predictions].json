@@ -1,0 +1,126 @@
+{
+  "style": "ckjz4bcf1072g17jsn2ymvvun",
+  "story": [
+    {
+      "id": 1,
+      "description": "Just 24 hours before the bomb was detonated, the weather forecast from the French testing programme’s meteorologists calculated that the radioactive cloud would travel north, reaching the Tureia and Hao atolls in about 20 hours. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/LEGEND/LEGEND-CEN-3-eng.jpg)",
+      "steps": [
+        [
+          {
+            "zoom": 6.06,
+            "center": [-19.145, -141.035]
+          }
+        ],
+        [
+          {
+            "layer": "moruroa",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-24H-anno",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-24H-dose",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-24H-dose-area",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-highlight",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-24H-dose-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "EN-CEN-2-names",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "CEN-2-24H-anno",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-dose",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-dose-area",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-dose-text",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-fallout",
+            "visible": false
+          },
+          {
+            "layer": "CEN-2-24H-text",
+            "visible": false
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Further weather checks were made 12 hours before the planned time of the explosion, which confirmed that the cloud would indeed take the northerly direction towards Tureia and Hao.",
+      "steps": [
+        [
+          {
+            "layer": "CEN-2-12H-anno",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-dose-area",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-dose",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-dose-text",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-fallout",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-12H-text",
+            "visible": true
+          },
+          {
+            "layer": "CEN-2-HaoTureia-dose",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "But for the French military command, there was no reason to justify interrupting the operation. A preparatory report concluded that the risk of contamination for the population would be “sufficiently low” to allow for the atmospheric test to go ahead. ",
+      "steps": [
+        [
+          {
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "description": "At the time, Tureia was inhabited by about 60 civilians and several hundred soldiers. As for the Hao atoll, it was mostly populated by French air force personnel housed at a military base. Despite the numbers of people who were directly in line with the expected path of the cloud, Vice Admiral Christian Claverie, the then military commander of France’s Pacific nuclear test centre, gave his authorisation for the bomb to be detonated.",
+      "steps": [[{}]]
+    }
+  ]
+}

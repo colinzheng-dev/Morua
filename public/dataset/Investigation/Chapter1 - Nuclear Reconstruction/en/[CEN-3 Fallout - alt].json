@@ -1,0 +1,27 @@
+{
+  "videoSrc": "https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/VIDEO/CEN-v03-eng.mp4",
+  "poster": "https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/VIDEO+FRAMES/CEN-3-image.png",
+  "totalPoint": 87,
+  "section": [
+    {
+      "point": 12,
+      "content": "Predicted fallout zone: Taking a northward direction from Moruroa encompassing the inhabited atolls of Tureia, Hao and Puka-Puka"
+    },
+    {
+      "point": 14,
+      "content": "As expected, the explosion of Centaure formed an immense mushroom cloud within minutes. But there was a problem: it did not reach the height forecast by the scientists. Instead of rising to 8,000 metres as they believed it would, it reached a ceiling point at 5,200 metres, and at that altitude the prevailing winds did not blow it northwards, but instead towards the west. Lying almost directly on its path was Tahiti, the largest and most populated island in French Polynesia"
+    },
+    {
+      "point": 47,
+      "content": "The official fallout simulation of the Centaure test as revealed in the original declassified documents and in a later 2006 CEA report showed it abruptly tailing off sometime after 20h from the explosion over the Pacific Ocean. Here the fallout simulation left us with a simple question. What happened to the fallout after 20h?"
+    },
+    {
+      "point": 56,
+      "content": "One hour after the explosion, the radioactive cloud began reaching Tematangi atoll, which was the location of the nearest meteorological station to Mururoa atoll from above which the bomb was triggered. The cloud then moved on to the inhabited atoll of Nukutepipi, nicknamed “billionaire’s island”, and across to the atolls of Anuanurunga and Anuanuraro. The fallout reached Tahiti at around 2am on July 19th 1974."
+    },
+    {
+      "point": 73,
+      "content": "Between the triggering of the bomb and the arrival of the radioactive cloud over Tahiti, more than 42 hours had passed and yet the island’s population was not informed of the approaching nuclear fallout. Despite the gravity of the situation and the high risk of contamination, the local inhabitants were not asked to take shelter nor to refrain from consuming foodstuffs and water which the authorities knew would be contaminated. The explosion of the bomb was not even mentioned in the local media. "
+    }
+  ]
+}

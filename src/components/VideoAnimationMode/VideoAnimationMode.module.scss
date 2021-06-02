@@ -1,0 +1,58 @@
+@import "../../assets//styles/abstract/mixins";
+
+.container {
+  position: relative;
+
+  .text-panel {
+    background-color: var(--color-black);
+    font-size: 20px;
+    color: white;
+    padding: var(--padding-text-panel);
+    max-width: var(--width-text-panel);
+    left: 45px;
+    position: absolute;
+    font-weight: lighter;
+    line-height: 3.3rem;
+    top: 0;
+    display: block;
+
+    p {
+      padding-bottom: 2rem;
+    }
+
+    @include respond(sm) {
+      font-size: 1.4rem;
+      padding: 2.5rem;
+      margin-left: 1rem;
+      max-width: 30rem;
+    }
+
+    @include respond(xs) {
+      left: 0;
+      // width: 100%;
+      max-width: unset;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  .video-container {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    background-color: var(--color-black);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  .video-background {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+  }
+}

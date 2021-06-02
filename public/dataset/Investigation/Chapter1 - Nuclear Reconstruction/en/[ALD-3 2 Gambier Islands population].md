@@ -1,0 +1,7 @@
+Before carrying out France’s first-ever atmospheric nuclear explosion which placed hundreds of Polynesians at risk of contamination, the French military high command decided to do nothing to protect them. One reason was to keep a positive image of the testing program among the population in mainland France, and to avoid any negative psychological effects on the Polynesians. But anxiety soon grew among the latter shortly after the first explosion, as Zachary Takahira, then a 13-year-old on Mangareva, explained. “The people were afraid,” he said. To overcome the concerns, the French military set about building an atomic shelter in the weeks that followed the first blast. A report, dated October 19th 1966, by French gendarmes who visited the island observed: “The inhabitants manifested a slight worry that didn’t exist [before the first test]. The constructions of a blockhouse and a ‘Tortoise’ [an inflatable shelter] impressed them.”
+
+![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ALD/ALD-3-5.jpg)
+_The structure of the fallout shelter in Rikitea, 1967_
+
+
+But the inhabitants of Mangareva were unaware that the harm had already been done. The radioactive fallout from the July 2nd explosion had contaminated the ground on the island at a level of 61 million becquerels per square metre. That is a degree of contamination which is rarely recorded, except during the world’s most serious nuclear catastrophes.

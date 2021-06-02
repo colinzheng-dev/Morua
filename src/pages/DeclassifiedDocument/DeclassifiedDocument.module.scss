@@ -1,0 +1,66 @@
+
+@import "../../assets/styles/abstract/mixins";
+
+.story-container {
+  max-width: 69rem;
+  margin: 0 auto;
+  padding: 10rem 2rem 2rem 2rem;
+
+  @include respond(xs) {
+    padding-top: 5rem;
+  }
+
+
+  .read {
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+  }
+}
+
+.browse-doc-container {
+  max-width: 69rem;
+  margin: 0 auto;
+  padding: 2rem;
+
+  h1 {
+    border: none;
+  }
+
+  ul {
+    list-style-type: none;
+
+    li {
+      margin: 1rem 0 1rem 0;
+
+      a {
+        text-decoration: none;
+        color: black;
+
+        &:hover {
+          text-decoration: underline;
+          font-weight: bold;
+          color: blue;
+        }
+      }
+
+      .top-dir-list-item {
+        font-size: 2rem;
+        background-color: rgb(32, 24, 57);
+        color: white;
+        padding: 1rem;
+      }
+
+      .child-dir-list-item {
+        font-size: 2rem;
+        border: 1px solid black;
+        padding: 1rem;
+      }
+
+      .file-list-tiem {
+        font-size: 1.5rem;
+        padding-left: 2rem;
+      }
+    }
+  }
+}

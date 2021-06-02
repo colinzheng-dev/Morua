@@ -1,0 +1,22 @@
+{
+  "videoSrc": "/dataset/Video/CEN-3_EN.mp4",
+  "totalPoint": 44,
+  "section": [
+    {
+      "point": 0.5,
+      "content": "As expected, the explosion of Centaure formed an immense mushroom cloud within minutes. But there was a problem: it did not reach the height forecast by the scientists. Instead of rising to 8,000 metres as they believed it would, it reached a ceiling point at 5,200 metres, and at that altitude the prevailing winds did not blow it northwards, but instead towards the west. Lying almost directly on its path was Tahiti, the largest and most populated island in French Polynesia."
+    },
+    {
+      "point": 18,
+      "content": "The official fallout simulation of the Centaure test as revealed in the original declassified documents and in a later 2006 CEA report showed it abruptly tailing off sometime after 20h from the explosion over the Pacific Ocean. Here the fallout simulation left us with a simple question. What happened to the fallout after 20h?"
+    },
+    {
+      "point": 23.6,
+      "content": "One hour after the explosion, the radioactive cloud began reaching the atoll of Tematangi, which was the location of the nearest meteorological station to the Mururoa test site from which the bomb was detonated. The cloud then moved over the inhabited atoll of Nukutepipi, nicknamed the “billionaire’s island”, and across to the atolls of Anuanurunga and Anuanuraro. The fallout finally reached Tahiti at around 2am on July 19th 1974."
+    },
+    {
+      "point": 35.5,
+      "content": "Between the time of the explosion and the arrival of the radioactive cloud over Tahiti, more than 42 hours had passed. Yet, the island’s population was not informed of the approaching nuclear cloud. Despite the gravity of the situation and the risk of contamination, the local inhabitants were not asked to take shelter nor to refrain from consuming foodstuffs, milk and water which the authorities knew would be contaminated. The explosion of the bomb was not even mentioned in the local media."
+    }
+  ]
+}

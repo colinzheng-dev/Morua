@@ -1,0 +1,35 @@
+@import '../abstract/mixins';
+
+.fullPageMode-images {
+  display: grid;
+  grid-template-columns: 56rem 1fr;
+  max-width: 91rem;
+  margin: 0 auto;
+  grid-column-gap: 3rem;
+
+  @include respond(sm) {
+    grid-template-columns: 1fr;
+    padding: 2rem;
+  }
+
+  &__person {
+  }
+
+  &__document {
+    img {
+      width: 32rem !important;
+
+      @include respond(sm) {
+        margin-top: 1rem !important;
+        width: 100% !important;
+      }
+    }
+  }
+}
+
+.hyperlink {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #000;
+  text-decoration-color: #000;
+}

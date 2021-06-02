@@ -1,0 +1,266 @@
+{
+  "style": "cklt7oq6c26o118psyk9k9h1v",
+  "story": [
+    {
+      "id": 1,
+      "description": "According to data from the French defence ministry in 2006, the Gambier Islands were impacted by radioactive fallout on 31 separate occasions, placing the archipelago in third place among the most contaminated zones in French Polynesia. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/LEGEND/LEGEND-ALD-4-eng.jpg)",
+      "steps": [
+        [
+          {
+            "zoom": 6.96,
+            "center": [-23.216, -136.513],
+            "bearing": -12.8,
+            "pitch": 53
+          }
+        ],
+        [
+          {
+            "layer": "EN-names",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4-dose-1",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4- fall-1",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4-fall-1text",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4-dose-1text",
+            "visible": true
+          },
+          {
+            "layer": "ALD-4-highlight-Gambier",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "On the Gambier Islands, in Rikitea, Taku and along the Taravai shoreline, the fallout from the nuclear tests is today all too present in the minds of the local population. The most widely upheld hypothesis is that the contamination led to a wave of cancers, and that appears to be confirmed in a report by the local government of French Polynesia dated February 2020, the existence of which has hitherto never been revealed. It is the first official document to refer to a ‘cluster of [cases of] thyroid cancers’ in the Gambier Islands. The report, written by a French military doctor, notes that the cluster, “focalised on the islands subjected to fallout […] leaves little doubt about the role of ionizing radiation […] in the advent of this excess of cancer [cases]’.",
+      "steps": [
+        [
+          {
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "While we were unable to establish a direct link between the atmospheric nuclear tests and the number of cancer cases in the zone where they were carried out, we have mapped the presence of the disease on the island of Mangareva. ",
+      "steps": [
+        [
+          {
+            "layer": "ALD-4-dose-1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-4- fall-1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-4-fall-1text",
+            "visible": false
+          },
+          {
+            "layer": "ALD-4-highlight-Gambier",
+            "visible": false
+          },
+          {
+            "layer": "ALD-4-dose-1text",
+            "visible": false
+          }
+        ],
+        [
+          {
+            "zoom": 6.96,
+            "center": [-23.216, -136.513],
+            "bearing": 0,
+            "pitch": 0
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Over the years since the mid 1960s, cancer has slowly and insidiously taken hold within families.",
+      "steps": [
+        [
+          {
+            "zoom": 11.95,
+            "center": [-23.11, -134.988]
+          }
+        ],
+        [
+          {
+            "layer": "background-satellite",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Sylvie (not her real name) and her sister, born respectively in 1966 and 1971, have both suffered from breast cancer, which was also the cause of their mother’s death in 2009. ‘It was when our elders began to die that we really started to ask ourselves questions,’ said Sylvie, who was born and raised on Mangareva. She now fears that her daughter may now in turn fall victim to the disease.",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-Sardine-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Sardine-line",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Sardine-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "description": "Yves Salmon, who was in his 20s at the time of the tests, was diagnosed with a carcinoma in 2010. His wife also fell ill, before she obtained official recognition from France that she was a victim of the nuclear tests. Salmon’s two brothers-in-law died from cancer. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/Chapter1_Extra_Images/IMG_3791.JPG)_Yves Salmon, resident of Taku, Mangareva, Gambiers Islands. Mathieu Asselin for Disclose._",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-YS-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-YS-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ALD-9-YS-wife-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-YS-line",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-YS-wife-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "description": "Unitio, a neighbour of Yves Salmon, living close to the small village of Taku on Mangareva, in a house on the side of a cliff, developed thyroid cancer in 2001. He spent all his childhood in the Gambier Islands. In 2010, he was finally recognised by France as a victim of the nuclear tests. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/Chapter1_Extra_Images/IMG_3798.JPG)_Utinio Tu in his house, Taku, Mangareva, Gambier Islands. Mathieu Asselin for Disclose._",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-Utio-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Utio-line",
+            "visible": true
+          },
+          {
+            "layer": "FR-ALD-9-Utio-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "description": "Unitio’s cousin Monique, 69, has suffered from thyroid cancer, and was hospitalised for two years at Papeete, the capital of French Polynesia. She also received official recognition as a victim, in August 2011. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ALD/ALD-9-3.JPG)_Monique Paheo, resident of Rikitea, Mangareva, Gambier Islands, recognized by Civen as a victim of the nuclear tests. Mathieu Asselin for Disclose._",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-Monique-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Utio-line-2",
+            "visible": true
+          },
+          {
+            "layer": "FR-ALD-9-Monique-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "FR-ALD-9-CHILDREN",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Utio-poly copy",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "description": "The father of Julie Lequesme was an elder of the Mangareva village of Taku and had worked on the atoll of Mururoa. He died from throat cancer in 1981. “When I went to see the island’s doctor, he said that judging by the X-rays of my father he was a heavy smoker,” said Julie. “Yet my father never touched a cigarette.” Her husband, who had worked for the CEA, also died from cancer in 2010.",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-Julie-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Julie-text",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Jullie-line",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Julie-fam-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-Julie-fam-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "description": "Catherine Serda is a former inhabitant of Taku. In her family, eight people fell ill with cancer between the end of the 1970s and the beginning of the 1990s. They all lived on Mangareva at the time of the nuclear tests.![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/LEGEND/LEGEND-ALD-9-eng.jpg)",
+      "steps": [
+        [
+          {
+            "layer": "ALD-9-CathPier-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-CathPier-text",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-CathPier-poly",
+            "visible": true
+          },
+          {
+            "layer": "ALD-9-CathPier-line",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "description": "",
+      "steps": [[{}]]
+    }
+  ]
+}

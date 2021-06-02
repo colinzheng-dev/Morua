@@ -1,0 +1,69 @@
+@import "../../assets//styles/abstract/mixins";
+
+.container {
+  max-width: 100rem;
+  margin: 0 auto;
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: 30rem 1fr;
+  grid-column-gap: 4rem;
+  grid-row-gap: 2rem;
+  padding-top: 10rem;
+  padding-right: 35rem;
+
+  @include respond(lg) {
+    grid-template-columns: 23rem 1fr;
+    padding-right: 2rem;
+  }
+
+  @include respond(sm) {
+    grid-template-columns: 1fr;
+    grid-row-gap: 0;
+    padding-top: 5rem;
+
+    p {
+      margin-bottom: 0;
+
+      &:nth-child(even) {
+        margin-bottom: 2rem;
+      }
+    }
+  }
+}
+
+.section-title {
+  text-align: right;
+
+  @include respond(sm) {
+    text-align: left;
+  }
+}
+
+p.standalone {
+  grid-column: 2 / span 1;
+
+  @include respond(sm) {
+    grid-column: 1 / -1;
+    margin-bottom: 2rem;
+  }
+}
+
+.important-word {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #000;
+  text-decoration-color: #000;
+}
+
+.divider {
+  border-top: 2px solid #000;
+  max-width: 69rem;
+  margin: 4rem auto 2rem auto;
+}
+
+.logo {
+  max-width: 50rem;
+  margin: 0 auto 15rem auto;
+  padding: 0 2rem;
+  width: 90% !important;
+}

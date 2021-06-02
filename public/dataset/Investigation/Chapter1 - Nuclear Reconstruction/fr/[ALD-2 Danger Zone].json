@@ -1,0 +1,207 @@
+{
+  "style": "cklw95m2654tr17lj5hcpzfn3",
+  "story": [
+    {
+      "id": 1,
+      "description": "",
+      "steps": [
+        [
+          {
+            "zoom": 5.12,
+            "center": [-21.47, -137.629]
+          }
+        ],
+        [
+          {
+            "layer": "ALD-2 names-Gambier",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2 names-Mururoa",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-distance line-",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-distance-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Les îles Gambier, ont été exclues du périmètre à risque, comme l’indique cette carte de l’époque. \n\n En ce début du mois de juillet 1966, les 450 habitants des îles Gambier ne savent pas qu’ils vont être les premières victimes de la campagne nucléaire française dans le Pacifique.![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ALD/ALD-2-2.jpg)_Zonage radiologique officiel, en 1970. Document déclassifié: 03-1970 - 02-23-58._",
+      "steps": [
+        [
+          {
+            "layer": "ALD-2-distance line-",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-distance-text",
+            "visible": false
+          }
+        ],
+        [
+          {
+            "layer": "ALD-2-traced-image",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ALD-2-traced-image",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-dzone1",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-dzone1-area",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-dzone2",
+            "visible": true
+          },
+          {
+            "layer": "ALD-2-dzone2-area",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "",
+      "steps": [
+        [
+          {
+            "layer": "ALD-2-dzone1",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-dzone1-area",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-dzone2",
+            "visible": false
+          },
+          {
+            "layer": "ALD-2-dzone2-area",
+            "visible": false
+          },
+          {
+            "zoom": 5.12,
+            "center": [-21.47, -137.629]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "description": "L’écrasante majorité des 450 personnes qui vivent aux Gambier résident à Mangareva, l’île la plus importante de l’archipel en superficie et en nombre d’habitants. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/Chapter1_Extra_Images/IMG_3760.jpg)_Le village de Rikitea, à Mangareva, la plus grande île des Gambier - Mathieu Asselin - Disclose._",
+      "steps": [
+        [
+          {
+            "zoom": 11.78,
+            "center": [-23.13, -134.99]
+          },
+          {
+            "layer": "sat-1",
+            "visible": true
+          },
+          {
+            "layer": "-islands",
+            "visible": true
+          },
+          {
+            "layer": "-mangareva",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "pop-names",
+            "visible": true
+          },
+          {
+            "layer": "pop-names Gatavake",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "pop-boxes",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "description": "L’archipel compte 61 enfants de moins de 8 ans à l’époque, selon l’Insee. L’information à son importance : l'impact des radiations est décuplé chez les enfants, en particulier au niveau de la glande thyroïde, l’organe du corps humain le plus sensible à la radioactivité.  ",
+      "steps": [
+        [
+          {
+            "layer": "-mangareva",
+            "visible": false
+          },
+          {
+            "layer": "pop-names",
+            "visible": false
+          },
+          {
+            "layer": "pop-names Gatavake",
+            "visible": false
+          }
+        ],
+        [
+          {
+            "layer": "pop-boxes",
+            "visible": false
+          },
+          {
+            "zoom": 11.78,
+            "center": [-23.13, -134.99],
+            "bearing": 0,
+            "pitch": 0
+          }
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "description": "",
+      "steps": [
+        [
+          {
+            "zoom": 16.91,
+            "center": [-23.115, -134.969],
+            "bearing": -31.89,
+            "pitch": 62.35
+          }
+        ],
+        [
+          {
+            "layer": "-blockhouse",
+            "visible": true
+          },
+          {
+            "layer": "gambier-text",
+            "visible": true
+          },
+          {
+            "layer": "Rikitea",
+            "visible": true
+          }
+        ]
+      ]
+    }
+  ]
+}

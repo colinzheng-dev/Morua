@@ -1,0 +1,261 @@
+{
+  "style": "cklwanh1x2g7117lbzmvx1n2v",
+  "story": [
+    {
+      "id": 1,
+      "description": "D’après les cartes militaires, l’île est au cœur d’une zone interdite. Un no man’s land de plusieurs centaines de kilomètres autour des atolls de Mururoa et Fangataufa. Mais, contrairement aux résidents des îles voisines, les 68 habitants de Tureia n’ont pas été évacués par les autorités avant le tir.  ",
+      "steps": [
+        [
+          {
+            "zoom": 7.43,
+            "center": [-21.16, -139.6]
+          }
+        ],
+        [
+          {
+            "layer": "-names",
+            "visible": true
+          },
+          {
+            "layer": "-dist-line",
+            "visible": true
+          },
+          {
+            "layer": "-dist-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "-names",
+            "visible": false
+          },
+          {
+            "layer": "-dist-line",
+            "visible": false
+          },
+          {
+            "layer": "-dist-text",
+            "visible": false
+          },
+          {
+            "zoom": 7.43,
+            "center": [-21.16, -139.6]
+          }
+        ],
+        [
+          {
+            "zoom": 10.82,
+            "center": [-21.864, -138.954],
+            "bearing": 33.19,
+            "pitch": 49.69
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-nuke1",
+            "visible": true
+          },
+          {
+            "layer": "FR-ENC-2-nuke-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-nuke2",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke3",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke4",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke5",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke6",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-nuke5",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke6",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke4",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke3",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke2",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-nuke1",
+            "visible": false
+          }
+        ],
+        [
+          {
+            "layer": "-names",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-nuke-text",
+            "visible": false
+          },
+          {
+            "zoom": 10.82,
+            "center": [-21.864, -138.954],
+            "bearing": 33.19,
+            "pitch": 49.69
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Le nuage atteint les côtes de Tureia en un peu plus de huit heures. \n\n Dans la nuit du 12 au 13 juin 1971, des pluies chargées en particules radioactives se répandent sur les habitations. C’est le pire scénario. Les militaires le savent, mais ils n’alertent pas les insulaires. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/LEGEND/LEGEND-ENC-2-fr.jpg)",
+      "steps": [
+        [
+          {
+            "zoom": 6.1,
+            "center": [-20.032, -137.785],
+            "bearing": 43.2,
+            "pitch": 53.0
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-dose-area",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-dose-line",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-dose-text",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ENC-2-fall-lines",
+            "visible": true
+          },
+          {
+            "layer": "ENC-2-fall-text",
+            "visible": true
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "description": "",
+      "steps": [
+        [
+          {
+            "layer": "-names",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-dose-area",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-dose-line",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-dose-text",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-fall-lines",
+            "visible": false
+          },
+          {
+            "layer": "ENC-2-fall-text",
+            "visible": false
+          },
+          {
+            "zoom": 6.1,
+            "center": [-20.032, -137.785],
+            "bearing": 43.2,
+            "pitch": 53.0
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Fin juin en toute discrétion, le Service mixte de contrôle biologique (SMCB), évalue l’impact de la contamination à Tureia. \n\n Ils recensent le nombre de citernes de Fakamaru, le seul village de l’île, leur localisation, et les taux de matières fissiles dans l’eau, comme le révèle cette archive de l’époque. ![](https://fp-nuclear-bucket.s3.eu-west-3.amazonaws.com/IMAGE/ENC/ENC-2-map.jpg)_Carte des citernes d’ eaux pluviales du village de Fakamaru, Tureia, 1971. Document déclassifié: 05-1971 - 02-12-58.._",
+      "steps": [
+        [
+          {
+            "zoom": 18.68,
+            "center": [-20.771, -138.565],
+            "bearing": 29.11,
+            "pitch": 61.34
+          }
+        ],
+        [
+          {
+            "layer": "ENC-4-cisterns1",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-road",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-cistent-NR",
+            "visible": true
+          },
+          {
+            "layer": "FR-ENC-4-cistent-public",
+            "visible": true
+          },
+          {
+            "layer": "FR-ENC-4-cistent-church",
+            "visible": true
+          }
+        ],
+        [
+          {
+            "layer": "ENC-4-activity",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-activity-text1",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-activity-text2",
+            "visible": true
+          },
+          {
+            "layer": "ENC-4-activity-text3",
+            "visible": true
+          }
+        ]
+      ]
+    }
+  ]
+}

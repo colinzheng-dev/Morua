@@ -1,0 +1,24 @@
+@import "../../assets/styles/abstract/mixins";
+
+.container {
+  max-width: 69rem;
+  margin: 0 auto;
+  padding: 10rem 2rem;
+
+  @include respond(xs) {
+    padding-top: 5rem;
+  }
+
+  .logo {
+    max-width: 50rem;
+    margin: 5rem auto 5rem auto;
+    padding: 0 2rem;
+    width: 90% !important;
+  }
+}
+
+.divider {
+  border-top: 2px solid #000;
+  max-width: 69rem;
+  margin: 4rem auto 2rem auto;
+}

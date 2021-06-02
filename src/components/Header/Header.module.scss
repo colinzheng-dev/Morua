@@ -1,0 +1,247 @@
+@import "../../assets//styles/abstract/mixins";
+
+.container {
+  background-color: var(--color-black);
+  padding: 0.7rem 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  max-width: 1920px;
+  padding: 0 2rem;
+  margin: 0 auto;
+
+  @include respond(lg) {
+    padding: 0 1rem;
+  }
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  transition: left 0.3s ease-in-out;
+  width: 80%;
+  justify-content: space-between;
+
+  @include respond(md) {
+    width: 100%;
+  }
+
+  @include respond(sm) {
+    display: none;
+  }
+}
+
+.nav-link {
+  color: var(--color-white);
+  margin: 0.2rem 2rem;
+  text-decoration: none;
+  font-size: 2rem;
+  padding: 0.6rem 0;
+  position: relative;
+  transition: all 0.2s ease-in-out;
+  line-height: 1.1;
+  z-index: 5;
+  text-transform: uppercase;
+
+  &:hover:after {
+    transform: scaleX(1);
+  }
+
+  @include respond(lg) {
+    font-size: 1.6rem;
+  }
+
+  @include respond(sm) {
+    margin: 0.7rem 1rem;
+  }
+
+  @include respond(md) {
+    font-size: 1.1rem;
+  }
+
+  &:after {
+    transition: all 0.2s ease-in-out;
+    content: "";
+    height: 2px;
+    width: 100%;
+    background-color: var(--color-white);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-radius: 1rem;
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+
+  &--active {
+    &:after {
+      transform: scaleX(1);
+    }
+  }
+}
+
+// If nav had children
+.nav-link-menu {
+  position: relative;
+
+  &:hover {
+    & .nav-children {
+      opacity: 1;
+      pointer-events: all;
+      transform: translateY(0);
+    }
+  }
+}
+
+.nav-children {
+  color: var(--color-white);
+  position: absolute;
+  top: 130%;
+  left: 0;
+  background-color: var(--color-black);
+  padding-top: 0;
+  margin: 0;
+  min-width: 100%;
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(2rem);
+  transition: all 0.1s ease-in-out;
+  border: 1px solid #fff;
+
+  &:hover {
+    opacity: 1;
+    pointer-events: all;
+  }
+}
+
+.nav-child {
+  color: var(--color-white);
+  text-decoration: none;
+  font-size: 1.8rem;
+  padding: 0.5rem;
+  white-space: nowrap;
+  border-bottom: 1px solid transparent;
+  margin: 0.7rem 1.5rem;
+
+  &:hover {
+    border-bottom-color: var(--color-white);
+  }
+}
+
+.menu {
+  background: none;
+  border: none;
+  height: 2.2rem;
+  cursor: pointer;
+
+  &:focus {
+    outline: none;
+  }
+
+  &__bar {
+    width: 2rem;
+    height: 0.4rem;
+    background-color: var(--color-white);
+    border-radius: 1rem;
+    position: relative;
+    display: block;
+
+    &:before,
+    &:after {
+      content: "";
+      display: block;
+      width: 2rem;
+      height: 0.4rem;
+      background-color: var(--color-white);
+      border-radius: 1rem;
+      transition: all 0.2s ease-in-out;
+      transform-origin: center center;
+      position: absolute;
+      left: 0;
+    }
+
+    &:before {
+      top: 0.7rem;
+    }
+
+    &:after {
+      top: -0.7rem;
+    }
+  }
+}
+
+.menu--active {
+  & .menu__bar {
+    background-color: transparent;
+
+    &:before {
+      top: 0;
+      transform: rotate(135deg);
+    }
+
+    &:after {
+      top: 0;
+      transform: rotate(-135deg);
+    }
+  }
+}
+
+.language-container {
+  display: flex;
+  margin-left: 30rem;
+
+  @include respond(md) {
+    margin-left: 10rem;
+  }
+
+  @include respond(sm) {
+    margin-left: auto;
+  }
+
+  & > * + * {
+    margin-left: 1rem;
+  }
+}
+
+.language {
+  color: var(--color-white);
+  font-size: 2rem;
+  opacity: 0.4;
+  cursor: pointer;
+  position: relative;
+
+  &:hover {
+    opacity: 0.7;
+  }
+
+  @include respond(lg) {
+    font-size: 1.8rem;
+  }
+
+  &--active {
+    opacity: 1;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    &:after {
+      transition: all 0.2s ease-in-out;
+      content: "";
+      height: 2px;
+      width: 100%;
+      background-color: var(--color-white);
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      border-radius: 1rem;
+    }
+  }
+}

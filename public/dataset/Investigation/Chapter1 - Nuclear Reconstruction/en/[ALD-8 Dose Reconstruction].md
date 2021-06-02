@@ -1,0 +1,1 @@
+On Mangareva, when the after-blast cloud was approaching, officials were urgently evacuated. The radioactive fallout reached the island 11 hours after the explosion. A science vessel was then dispatched to the area to estimate the extent of the accident. The results are bad. Food, water, soil… everything is contaminated.   
